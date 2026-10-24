@@ -36,7 +36,7 @@ La instancia se crea de forma perezosa (*Lazy Initialization*), es decir, cuando
 3. Ejecutar el método `main()`.
 4. Comprobar los resultados en la consola.
 
-## Resultado esperado
+## Resultado
 ![Ejercicio-01.png](Ejercicio-01.png)
 
 ## Conclusión
